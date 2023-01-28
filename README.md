@@ -2,7 +2,7 @@
 
 A machine learning case study to offer pricing suggestions to sellers on online shopping platforms using the ‘Mercari Price Suggestion Challenge’ dataset on Kaggle.
 
-- Detailed blog explaining the case study: [link](https://rakshith-s.medium.com/mercari-price-suggestion-challenge-suggesting-product-prices-for-online-shopping-platforms-machine-learning-fa1f697caa56)
+- Detailed blog explaining the case study: [link](https://medium.com/@rakshith-s/mercari-price-suggestion-challenge-7d87c60cd0fa)
 
 - Deployed Web App built using streamlit: [link](https://rak5hith-s-mercari-price-suggestion-streamlit-app-dhiz55.streamlit.app/)
 
